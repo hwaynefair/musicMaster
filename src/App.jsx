@@ -36,7 +36,7 @@ class App extends Component {
 
         return (
             <div className='App'>
-                <div className="App-title">Music Master Test5</div>
+                <div className="App-title">Music Master Test6</div>
                 <FormGroup>
                     <InputGroup>
                         <FormControl
